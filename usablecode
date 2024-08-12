@@ -1,0 +1,27 @@
+<style>
+                .light:hover{
+                    color:black;
+                }
+                
+                .light:active {
+                    html {
+                        background-color: white;
+                    }
+                }
+
+                .dark:active {
+                    html {
+                        background-color: black;
+                    }
+                }
+
+                .dark:hover {
+                    color:black;
+                }
+</style>
+
+
+<div class="lightordarkmodebutton">
+                <button class="light">Light Mode</button>
+                <button class="dark">Dark Mode</button>
+            </div>
