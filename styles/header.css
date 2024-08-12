@@ -120,4 +120,5 @@
 .notifications-button,
 .account-picture {
     margin-right: 14px;
+    background-color: transparent;
 }
